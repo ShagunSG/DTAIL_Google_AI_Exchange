@@ -58,11 +58,11 @@
     />
   </head>
   <body>
-    <link href="{% static 'index.css' %}" rel="stylesheet" />
+    <link href="../static/index.css" rel="stylesheet" />
     <div class="topnav" id="myTopnav">
       <img
         alt="Company Logo"
-        src="stylishthreads-high-resolution-logo-transparent.png"
+        src="../static/stylishthreads-high-resolution-logo-transparent.png"
         class="topnav-image1"> </img>
     </div>
     <div>
@@ -75,7 +75,7 @@
             >
               <img
                 alt="Image1"
-                src="anastasiia-balandina-H79A2kOeg3U-unsplash.jpg"
+                src="../static/anastasiia-balandina-H79A2kOeg3U-unsplash.jpg"
                 class="contact-form3-image1 thq-img-ratio-4-5"
               />
               <div class="contact-form3-content1 thq-flex-column">
@@ -104,6 +104,7 @@
                     </label>
                     <input
                       type="number"
+                      name="user_id"
                       id="contact-form-3-name"
                       placeholder="User ID"
                       class="thq-input"
@@ -115,6 +116,7 @@
                     </label>
                     <input
                       type="text"
+                      name="name"
                       id="contact-form-3-email"
                       required="true"
                       placeholder="Name"
@@ -149,7 +151,7 @@
                 <div class="footer3-logo">
                   <img
                     alt="Company Logo"
-                    src="stylishthreads-high-resolution-logo-transparent.png"
+                    src="../static/stylishthreads-high-resolution-logo-transparent.png"
                     class="footer3-image1"
                   />
                 </div>
