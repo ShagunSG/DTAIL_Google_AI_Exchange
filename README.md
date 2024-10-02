@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](file:///Users/avniguota/Library/Group%20Containers/group.net.whatsapp.WhatsApp.shared/Message/Media/120363323194693186@g.us/e/2/e2788db1-5716-453f-b247-6c24e0f35922.jpg)
 
 Our project aims to develop a Generative AI agent that creates personalized marketing content based on user preferences, enhancing customer satisfaction and relevance. By utilizing text and image generation capabilities, the solution provides customized marketing materials tailored to retail sellers. The system employs a recommender model powered by reinforcement learning, optimizing product recommendations and adapting to seasonality. Key challenges include the inability to fine-tune the Gemini model for specific applications, difficulties in capturing nuanced user feedback, and ensuring AI-generated content aligns with brand standards. This innovative approach enhances brand connection with users while navigating the complexities of personalized marketing.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
