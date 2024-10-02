@@ -117,7 +117,6 @@
     width: 100%;
   }
 }
-
 .footer3-wrapper {
   display: contents;
 }
@@ -350,6 +349,11 @@
 }
 .home-text23 {
   display: inline-block;
+}
+.icon {
+  width: 2em;
+  height: 2em;
+  vertical-align: -0.125em;
 }
 .input {
   color: var(--dl-color-theme-neutral-dark);
@@ -900,4 +904,8 @@
   .thq-grid-auto-300 {
     grid-template-columns: 1fr;
   }
+}
+.topnav {
+  background-color: var(--dl-color-theme-neutral-light);
+  height: 10vh;
 }
